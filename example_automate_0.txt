@@ -1,0 +1,15 @@
+a b c 
+s0 s4 s1 s2 s5 s3 
+s0
+s0 s4 
+s0 aa s0 
+s0  s1 
+s1 c s0 
+s1  s2 
+s2 a s1 
+s2 ba s2 
+s2  s3 s5 
+s2 aab s5 
+s3 b s2 
+s4 ba s4 
+s4 a s0 
