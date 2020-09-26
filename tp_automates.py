@@ -509,6 +509,7 @@ def fonction6():
     nomFichier = input("Entrez le nom du fichier où vous sauvegarderez l'automate (précisez l'extension) ")
     ecrire_fichier(nomFichier, automate)
 
+# MENU #
 menu = ConsoleMenu("Automates d'états finis", "Un environnement contenant quelques opérations sur les automates.")
 
 function_item0 = FunctionItem("Afficher un automate", fonction0)
